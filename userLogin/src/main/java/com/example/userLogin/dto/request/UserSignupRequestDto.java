@@ -14,4 +14,8 @@ public class UserSignupRequestDto { //회원 정보를 필드로 정의
     private String userEmail;
     private Integer userPhone;
 
+
+
+
+
 }
