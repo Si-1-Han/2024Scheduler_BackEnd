@@ -49,3 +49,6 @@ public class ScheduleApiController {
                 .body(new ScheduleResponseDto(schedule));
     }
 }
+
+
+
